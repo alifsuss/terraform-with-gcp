@@ -2,3 +2,4 @@ freecodecamp-terraform-425605-94fbdc541fac.json
 secrets/*
 .terraform/*
 .terraform*
+*.tfstate*
